@@ -1,0 +1,8 @@
+buatkan planning project sebagai berikut kedalam issue.md:
+
+buat project menggunakan bun (bun dan nodejs belum terinstall di komputer ini)
+gunakan elysia framework, dan drizzle ORM
+gunakan database postgres
+
+buatkan simple plan saja untuk membuat project ini, jangan terlalu low level dan jangan terlalu high level.
+tapi cukup detail agar mudah dipahami oleh junior engineer atau model AI lain yang lebih murah
